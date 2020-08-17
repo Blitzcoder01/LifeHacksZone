@@ -1,0 +1,2 @@
+# LifeHacksZone
+FULL_STACK_PROJECT
